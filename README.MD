@@ -27,17 +27,24 @@ src="https://github.com/BlockchainSpace-Dev/x-guild-price-tracker-plugin/blob/ma
 * [x] [Python](https://www.python.org/) (_Required_)
    
 ### How to Install
+
 #### Use with `curl` or `wget`
+
 ```shell
-> curl -L https://github.com/BlockchainSpace-Dev/x-guild-price-tracker-plugin/blob/main/guild.1m.py\?raw=true \
-  -o ~/Library/Application\ Support/xbar/plugins/guild.1m.py 
+curl -L https://github.com/BlockchainSpace-Dev/x-guild-price-tracker-plugin/blob/main/guild.1m.py\?raw=true \
+  -o ~/Library/Application\ Support/xbar/plugins/guild.1m.py && chmod 0775 ~/Library/Application\ Support/xbar/plugins/guild.1m.py
+```
 
-> # OR
-
-> wget https://github.com/BlockchainSpace-Dev/x-guild-price-tracker-plugin/blob/main/guild.1m.py\?raw=true -O \
-  ~/Library/Application\ Support/xbar/plugins/guild.1m.py 
+Or
 
 ```
+wget https://github.com/BlockchainSpace-Dev/x-guild-price-tracker-plugin/blob/main/guild.1m.py\?raw=true -O \
+  ~/Library/Application\ Support/xbar/plugins/guild.1m.py && chmod 0775 ~/Library/Application\ Support/xbar/plugins/guild.1m.py
+
+```
+
+After that, Open Xbar in Applications & Open menu _**Xbar -> "Refresh all"**_
+
 #### Browse in Plugin
 1. Open menu _**Xbar -> "Plugin Browser"**_
 2. Select _**"Finance"**_
