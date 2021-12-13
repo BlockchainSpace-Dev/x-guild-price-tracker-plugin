@@ -3,7 +3,7 @@
 
 <p align="center">
 <img 
-src="https://github.com/BlockchainSpace-Dev/x-guild-price-tracker-plugin/blob/master/README.png?raw=true" alt="$GUILD price tracker view" />
+src="https://github.com/BlockchainSpace-Dev/x-guild-price-tracker-plugin/blob/main/README.png?raw=true" alt="$GUILD price tracker view" />
 </p>
 
 ## Table of Content
@@ -29,12 +29,12 @@ src="https://github.com/BlockchainSpace-Dev/x-guild-price-tracker-plugin/blob/ma
 ### How to Install
 #### Use with `curl` or `wget`
 ```shell
-> curl -L https://github.com/BlockchainSpace-Dev/x-guild-price-tracker-plugin/blob/master/guild.1m.py\?raw=true \
+> curl -L https://github.com/BlockchainSpace-Dev/x-guild-price-tracker-plugin/blob/main/guild.1m.py\?raw=true \
   -o ~/Library/Application\ Support/xbar/plugins/guild.1m.py 
 
 > # OR
 
-> wget https://github.com/BlockchainSpace-Dev/x-guild-price-tracker-plugin/blob/master/guild.1m.py\?raw=true -O \
+> wget https://github.com/BlockchainSpace-Dev/x-guild-price-tracker-plugin/blob/main/guild.1m.py\?raw=true -O \
   ~/Library/Application\ Support/xbar/plugins/guild.1m.py 
 
 ```
