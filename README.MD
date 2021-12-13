@@ -18,7 +18,7 @@ src="https://github.com/BlockchainSpace-Dev/x-guild-price-tracker-plugin/blob/ma
    
 ## Features
 
-* [x] Currency support USD, PHP, EUR, ETH
+* [x] Currency support USD, PHP, EUR, HKD, SGD, IDR
 * [x] Link to coingecko and blockchainspace website
 
 ### Prerequisite
