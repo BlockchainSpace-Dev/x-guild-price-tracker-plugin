@@ -6,7 +6,7 @@
 # <xbar.author.github>rririanto</xbar.author.github>
 # <xbar.desc>$GUILD price tracker</xbar.desc>
 # <xbar.dependencies>python</xbar.dependencies>
-# <xbar.image>https://github.com/BlockchainSpace-Dev/xbar-guild-token-plugin</xbar.image>
+# <xbar.image>https://i.imgur.com/OUTglzf.png</xbar.image>
 # <xbar.abouturl>https://github.com/rririanto</xbar.abouturl>
 
 import urllib2
